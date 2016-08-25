@@ -1,5 +1,5 @@
 //通过require引入http模块，并将实例化的 HTTP 赋值给变量 http
-var http = require( "http" );
+var http = require( 'http' );
 
 //创建一个服务器
 //req:request,接收参数
