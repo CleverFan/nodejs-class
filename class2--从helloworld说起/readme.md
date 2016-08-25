@@ -115,7 +115,7 @@ http.createServer(function (req, res){
 > 
 > nodejs的安装我前面的博客有讲过，win，Ubuntu，centos都有。
 
-相应的代码等资料会放在github上：https://github.com/CleverFan/nodejs-class/tree/master/class2--%E4%BB%8Ehelloworld%E8%AF%B4%E8%B5%B7
+对应博客地址：http://blog.csdn.net/qq_31655965/article/details/52311430
 
 欢迎大家批评指正。
 
