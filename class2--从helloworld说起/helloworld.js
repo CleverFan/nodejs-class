@@ -12,7 +12,7 @@ http.createServer(function (req, res){
     //以一个字符串作为响应的结尾
     res.end('hello world');
     //这个服务监听80端口（也就是说，访问80端口的行为会被该服务接收）
-}).listen(80);
+}).listen(3000);
 
 //终端打印一句话，表示服务已经开启
 console.log('please input "localhost" in explore');
